@@ -2,9 +2,10 @@
 An example on how to use IdentityServer3 with the new ASP.NET Core 1.0 RC1.
 
 ##Quick Start
-1. Clone Git repo
+1. Clone Git repo and `cd` into new directory
 ```bash
 git clone https://github.com/fadihania/AspNetCoreIdSrv3.git
+cd AspNetCoreIdSrv3
 ```
 2. Install NuGet packages dependencies
 ```bash
